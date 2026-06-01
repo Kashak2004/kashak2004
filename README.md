@@ -1,5 +1,5 @@
 # 💫 About Me:
-FULL STACK DEVELOPER | MERN SPECIALIST
+IT'27 GCECT|| MERN Dev
 
 
 ## 🌐 Socials:
