@@ -1,5 +1,5 @@
 # 💫 About Me:
-IT'27 GCECT|| MERN Dev
+IT'27 GCECT || MERN Dev
 
 
 ## 🌐 Socials:
