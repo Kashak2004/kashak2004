@@ -14,4 +14,4 @@ IT'27 GCECT || MERN Dev
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kashak2004&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?u
+
